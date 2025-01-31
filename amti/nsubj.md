@@ -5,8 +5,9 @@ title: nsubj
 
 We use `nsubj` for the nominal argument of a finite verb that agrees with (is co-referential) with its morphological subject. A clause can have at most one `nsubj`.
 
-~~~ sdparse
 am-ref-4: ውሻው ይጮሃል ።
+~~~ sdparse
+ውሻው ይጮሃል ።
 nsubj(ይጮሃል, ውሻው)
 ~~~
 
