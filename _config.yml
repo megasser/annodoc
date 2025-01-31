@@ -17,9 +17,9 @@ markdown_ext: md
 
 name: Annodoc
 baseurl: "/annodoc"
-homeurl: "https://github.com/spyysalo/annodoc/"
-editurl: "https://github.com/spyysalo/annodoc/edit/gh-pages"
-issueurl: "https://github.com/spyysalo/annodoc/issues"
+homeurl: "https://github.com/megasser/annodoc/"
+editurl: "https://github.com/megasser/annodoc/edit/gh-pages"
+issueurl: "https://github.com/megasser/annodoc/issues"
 
 ##############################################################################
 
