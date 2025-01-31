@@ -7,9 +7,11 @@ We use `nsubj` for the nominal argument of a finite verb that agrees with (is co
 
 am-ref-4: ውሻው ይጮሃል
 ~~~ sdparse
-ውሻው ይጮሃል\n ከልቢ ይነብሕ\n dog barks
+ውሻው ይጮሃል
 nsubj(ይጮሃል, ውሻው)
+ከልቢ ይነብሕ
 nsubj(ይነብሕ, ከልቢ)
+dog barks
 ~~~
 
 ti-ref-4: ከልቢ ይነብሕ ።
