@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: nsubj
+title: 
 ---
 
 ## `nsubj`: nominal subject
