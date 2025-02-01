@@ -32,4 +32,8 @@ nsubj(ተደሰተች, አልማዝ)
 nsubj(ተሓጒሳ, ኣልማዝ)
 ~~~
 
-A
+~~~ conllu
+# Amharic passive-reflexive morphology
+1 አልማዝ አልማዝ PROPN PROPN _ 2 nsubj _ _
+2 ተደሰተች ተደሰተ VERB VERB Voice=Pass 0 ROOT _ _
+~~~
