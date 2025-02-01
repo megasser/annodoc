@@ -17,7 +17,8 @@ nsubj:pass(ተሰበረ, ብርጭቆው)
 - ti-ref-15: እቲ ቢኬሪ ተሰቢሩ ። (passivized form of ነቲ ቢኬሪ ሰቢሩ ።)
 
 ~~~ sdparse
-እቲ ቢኬሪ ተሰቢሩ ። 
-\n the glas was-broken .
+እቲ ቢኬሪ ተሰቢሩ ። \n the glass was-broken .
 nsubj:pass(ተሰቢሩ, ቢኬሪ)
 ~~~
+
+A clause may have a head verb with passive-reflexive morphology and not be treated as passive if it cannot be viewed as the passivized form of a corresponding active clause.
