@@ -17,6 +17,7 @@ nsubj:pass(ተሰበረ, ብርጭቆው)
 - ti-ref-15: እቲ ቢኬሪ ተሰቢሩ ። (passivized form of ነቲ ቢኬሪ ሰቢሩ ።)
 
 ~~~ sdparse
-እቲ ቢኬሪ ተሰቢሩ ።
+እቲ ቢኬሪ ተሰቢሩ ። 
+\n the glas was-broken .
 nsubj:pass(ተሰቢሩ, ቢኬሪ)
 ~~~
