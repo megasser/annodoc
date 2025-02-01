@@ -11,10 +11,12 @@ obj(såg, filmen)
 ~~~
 
 am-ref-4: ውሻው ይጮሃል
+
 ~~~ sdparse
-ውሻው ይጮሃል \n dog barks
+ውሻው ይጮሃል \n the-dog barks
 nsubj(ይጮሃል, ውሻው)
 ~~~
+
 ~~~ sdparse
 ከልቢ ይነብሕ
 nsubj(ይነብሕ, ከልቢ)
