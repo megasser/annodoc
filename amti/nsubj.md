@@ -7,8 +7,8 @@ We use `nsubj` for the nominal argument of a finite verb that agrees with (is co
 
 am-ref-4: ውሻው ይጮሃል
 ~~~ sdparse
-dog barks \n ውሻው ይጮሃል
-nsubj(ይጮሃል, ውሻው)
+ውሻው ይጮሃል
+nsubj(ይጮሃል, ውሻው) \n dog barks
 ~~~
 ~~~ sdparse
 ከልቢ ይነብሕ
