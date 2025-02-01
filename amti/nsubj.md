@@ -24,42 +24,42 @@ nsubj(ይነብሕ, ከልቢ)
 - am-ref-3: እንጀራ የለም ።
 
 ~~~ sdparse
-እንጀራ የለም
+እንጀራ የለም \n injera there-is-not
 nsubj(የለም, እንጀራ)
 ~~~
 
 - ti-ref-3: ​​እንጀራ የለን ።
 
 ~~~ sdparse
-እንጀራ የለን
+እንጀራ የለን \n injera there-is-not
 nsubj(የለን, እንጀራ)
 ~~~
 
 - am-ref-7: አስቴር መኪና አላት ።
 
 ~~~ sdparse
-አስቴር መኪና አላት
+አስቴር መኪና አላት \n Aster car has(exists-to-her)
 nsubj(አላት, መኪና)
 ~~~
 
 - ti-ref-7a: ኣስቴር መኪና ኣላታ ።
 
 ~~~ sdparse
-ኣስቴር መኪና ኣላታ
+ኣስቴር መኪና ኣላታ \n Aster car has(exists-to-her)
 nsubj(ኣላታ, መኪና)
 ~~~
 
 - am-S-50: ወንድሜ ከአገር ቤት ስለመጣ ላየው ሄድኩ ።
 
 ~~~ sdparse
-ወንድሜ ከአገር ቤት ስለመጣ ላየው ሄድኩ
+ወንድሜ ከአገር ቤት ስለመጣ ላየው ሄድኩ \n my-brother from-country house because-he-came to-see-him I-went
 nsubj(ስለመጣ, ወንድሜ)
 ~~~
 
 - ti-S-50: ሓወይ ካብ ዓዲ ስለዝመጸ ፡ ክርእዮ ከይደ ።
 
 ~~~ sdparse
-ሓወይ ካብ ዓዲ ስለዝመጸ ፡ ክርእዮ ከይደ
+ሓወይ ካብ ዓዲ ስለዝመጸ ፡ ክርእዮ ከይደ \n  \n my-brother from country because-he-came , to-see-him I-went
 nsubj(ስለዝመጸ, ሓወይ)
 ~~~
 
@@ -67,13 +67,13 @@ We also use `nsubj` for the subject of an infinitive if it is does not have the 
 
 - am-S-67: ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል ። (አስቴር ወደ ጎንደር ሄደች)
 ~~~ sdparse
-ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል
+ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል \n Kassa Aster to Gondar her-going he-has-heard
 nsubj(መሄድዋን, አስቴር)
 ~~~
 
 - am-S-442: ልጃቸው በጦርነት ላይ መሞቱን ተረዱ ። (ልጃቸው በጦርነት ላይ ሞተ)
 ~~~ sdparse
-ልጃቸው በጦርነት ላይ መሞቱን ተረዱ
+ልጃቸው በጦርነት ላይ መሞቱን ተረዱ \n their-child in-war in his-dying-OBJ they-learned
 nsubj(መሞቱን, ልጃቸው)
 ~~~
 
@@ -81,13 +81,13 @@ In nonverbal (copula) clauses, where the root is not a verb, we use `nsubj` for 
 
 - am-ref-20: ካሳ አስተማሪ ነው ።
 ~~~ sdparse
-ካሳ አስተማሪ ነው
+ካሳ አስተማሪ ነው \n Kassa teacher is
 nsubj(አስተማሪ, ካሳ)
 ~~~
 
 - ti-ref-20: ካሕሳይ መምህር እዩ ።
 ~~~ sdparse
-ካሕሳይ መምህር እዩ
+ካሕሳይ መምህር እዩ \n Kahsay teacher is
 nsubj(መምህር, ካሕሳይ)
 ~~~
 
