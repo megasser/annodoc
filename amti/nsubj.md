@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: 
+title: nsubj
 ---
 
 <h2><code>nsubj</code>: nominal subject</h2>
