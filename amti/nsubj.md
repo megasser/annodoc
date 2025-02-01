@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: nsubj
+title: `nsubj`: nominal subject
 ---
 
 We use `nsubj` for the nominal subject of a finite verb. The subject is always the argument that agrees with (is co-referential with) the morphological subject of the verb, though this may not correspond to the subject in other languages (5, 6). A clause can have at most one `nsubj`.
