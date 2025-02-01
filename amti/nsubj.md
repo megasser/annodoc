@@ -66,12 +66,14 @@ nsubj(ስለዝመጸ, ሓወይ)
 We also use `nsubj` for the subject of an infinitive if it is does not have the nominal genitive clitic, የ-/ናይ. The subject of the infinitive is the argument that would be the subject of the verb if it were finite. When the "subject" of the infinitive is marked with the nominal genitive clitic, we use `nmod` rather than `nsubj`.
 
 - am-S-67: ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል ። (አስቴር ወደ ጎንደር ሄደች)
+
 ~~~ sdparse
 ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል \n Kassa Aster to Gondar her-going he-has-heard
 nsubj(መሄድዋን, አስቴር)
 ~~~
 
 - am-S-442: ልጃቸው በጦርነት ላይ መሞቱን ተረዱ ። (ልጃቸው በጦርነት ላይ ሞተ)
+
 ~~~ sdparse
 ልጃቸው በጦርነት ላይ መሞቱን ተረዱ \n their-child in-war in his-dying-OBJ they-learned
 nsubj(መሞቱን, ልጃቸው)
@@ -80,12 +82,14 @@ nsubj(መሞቱን, ልጃቸው)
 In nonverbal (copula) clauses, where the root is not a verb, we use `nsubj` for the subject of the copula, though its governor is the root of the clause, not the copula.
 
 - am-ref-20: ካሳ አስተማሪ ነው ።
+
 ~~~ sdparse
 ካሳ አስተማሪ ነው \n Kassa teacher is
 nsubj(አስተማሪ, ካሳ)
 ~~~
 
 - ti-ref-20: ካሕሳይ መምህር እዩ ።
+
 ~~~ sdparse
 ካሕሳይ መምህር እዩ \n Kahsay teacher is
 nsubj(መምህር, ካሕሳይ)
