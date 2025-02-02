@@ -22,6 +22,7 @@ nsubj:pass(ተሰቢሩ, ቢኬሪ)
 ~~~
 
 A clause may have a head verb with passive-reflexive morphology and not be treated as passive if it cannot be viewed as the passivized form of a corresponding active clause. In both 3 and 4, the verbs are formally passive-reflexive, but the clauses are not treated as passive, so the subject takes the simple `nsubj` relation.
+
 ~~~ sdparse
 አልማዝ ተደሰተች ። \n Almaz is-happy .
 nsubj(ተደሰተች, አልማዝ)
