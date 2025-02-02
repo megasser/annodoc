@@ -22,7 +22,7 @@ nsubj:outer(አለመስማቱ, ችግሩ)
 ~~~ sdparse
 እቲ ጸገም ኣበበ ናይ ካልእ ሰብ ሓሳብ ብፍጹም ዘይምስምዑ እዩ ። \n the problem Abebe of other person idea completely his-not-hearing is .
 cop(ዘይምስምዑ, እዩ)
-nsubj(ዘይምስምዑ, አበበ)
+nsubj(ዘይምስምዑ, ኣበበ)
 nsubj:outer(ዘይምስምዑ, ጸገም)
 ~~~
 
@@ -36,7 +36,7 @@ cop(መደበቋ, ነው)
 cop(መደበቋ, እንደሆነ)
 csubj:outer(መደበቋ, ያስተዋልኩት)
 nsubj:outer(መደበቋ, ችግሩ)
-nsubj(መደበቋ, አስቴር)b
+nsubj(መደበቋ, አስቴር)
 ~~~
 
 - ti-ref-103: ዘስተውዓልኩዎ ፣ ጸገም ኣስቴር ውላዳ ምሕብኣ ምዃኑ እዩ ። 'What I realized is that the problem is that Aster hid her child.'
