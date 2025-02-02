@@ -17,21 +17,21 @@ nsubj:aff(-ጮህ-, ይ-)
 ti-ref-4: ከልቢ ይ-ነብሕ ።
 
 ~~~ sdparse
-ከልቢ ይ- -ነብሕ ።
+ከልቢ ይ- -ነብሕ ። \n dog 3SM- -bark .
 nsubj:aff(-ነብሕ, ይ-)
 ~~~
 
 am-ref-2: አልጋው ላይ ተኛ-አች ።
 
 ~~~ sdparse
-አልጋው ላይ ተኛ- -አች ።
+አልጋው ላይ ተኛ- -አች ። \n the-bed on sleep- -3SF .
 nsubj:aff(ተኛ-, -አች)
 ~~~
 
 ti-ref-2: ኣብ ዓራት ደቂስ-ኣ ።
 
 ~~~ sdparse
-ኣብ ዓራት ደቂስ- -ኣ ።
+ኣብ ዓራት ደቂስ- -ኣ ። \n on bed sleep- -3SF .
 nsubj:aff(ደቂስ-, -ኣ)
 ~~~
 
@@ -40,13 +40,13 @@ We consider possessive suffixes on infinitives, though they are co-referential w
 am-S-135: መሄድ-ዋ የባሏን ልብ ሰበረው ።
 
 ~~~ sdparse
-መሄድ- -ዋ የባሏን ልብ ሰበረው ።
+መሄድ- -ዋ የባሏን ልብ ሰበረው ። \n going- -her her-husband's-OBJ heart it-broke-it .
 det:aff(መሄድ-, -ዋ)
 ~~~
 
 ti-S-135: ምኻድ-ኣ ንልቢ ሰብኣያ ሰቢሩዎ ።
 
 ~~~ sdparse
-ምኻድ- -ኣ ንልቢ ሰብኣያ ሰቢሩዎ ።
+ምኻድ- -ኣ ንልቢ ሰብኣያ ሰቢሩዎ ። \n going- -her heart-OBJ husband it-broke-it .
 det:aff(ምኻድ-, -ኣ)
 ~~~
