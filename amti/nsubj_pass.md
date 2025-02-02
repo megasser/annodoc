@@ -7,14 +7,14 @@ title: nsubj:pass
 
 We use the subrelation `:pass` with `nsubj` when the nominal is the subject of a passivized clause, that is, a clause that is related by passivization to a corresponding active clause.
 
-- am-ref-15: ብርጭቆው ተሰበረ ። (passivized form of ብርጭቆውን ሰበረ ።)
+- am-ref-15: ብርጭቆው ተሰበረ ። (passivized form of ብርጭቆውን ሰበረ ።) 'The glass was broken.'
 
 ~~~ sdparse
 ብርጭቆው ተሰበረ ። \n glass was-broken .
 nsubj:pass(ተሰበረ, ብርጭቆው)
 ~~~
 
-- ti-ref-15: እቲ ቢኬሪ ተሰቢሩ ። (passivized form of ነቲ ቢኬሪ ሰቢሩ ።)
+- ti-ref-15: እቲ ቢኬሪ ተሰቢሩ ። (passivized form of ነቲ ቢኬሪ ሰቢሩ ።) 'The glass was broken.'
 
 ~~~ sdparse
 እቲ ቢኬሪ ተሰቢሩ ። \n the glass was-broken .
