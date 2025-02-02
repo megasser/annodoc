@@ -12,7 +12,7 @@ to signal that it is not the subject of the nested clause.
 
 ~~~ sdparse
 ችግሩ አበበ የሌላ ሰውን ሃሳብ በጭራሽ አለመስማቱ ነው ። \n the-problem Abebe of-other person-OBJ idea completely not-listening-his is .
-cop(አለመስማት, ነው)
-nsubj(አለመስማት, አበበ)
-nsubj:outer(አለመስማት, ችግሩ)
+cop(አለመስማቱ, ነው)
+nsubj(አለመስማቱ, አበበ)
+nsubj:outer(አለመስማቱ, ችግሩ)
 ~~~
