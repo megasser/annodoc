@@ -14,7 +14,7 @@ The subrelation `:aff` is used for subject agreement prefixes and suffixes withi
 nsubj:aff(-ጮህ-, ይ-)
 ~~~
 
-- ti-ref-4: ከልቢ ይ-ነብሕ ። 'A dog barks.'
+- ti-ref-4: ከልቢ ይ-ነብሕ ። 'The dog barks.'
 
 ~~~ sdparse
 ከልቢ ይ- -ነብሕ ። \n dog 3SM- -bark .
