@@ -1,6 +1,8 @@
 ---
 layout: entry
-title: nsubj:outer
+title: 'nsubj:outer'
+shortdef: 'outer clause nominal subject'
+udver: '2'
 ---
 
 <h2><code>nsubj:outer</code>: outer clause nominal subject</h2>
