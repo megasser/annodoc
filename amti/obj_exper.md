@@ -3,7 +3,7 @@ layout: entry
 title: obj:exper
 ---
 
-<h2><code>obj:exper</code>object of experience verb</h2>
+<h2><code>obj:exper</code>: object of experience verb</h2>
 
 Experience verbs in both languages are characterized by a number of different syntactic frames.
 For one of these, the experiencer argument agrees with the verb's obligatory object suffix and usually
