@@ -11,8 +11,8 @@ The subrelation :aff is used for the plain object suffixes within finite verbs. 
 
 ~~~ sdparse
 ወንድሜን ይ- -ኣውቅ- -አው- -ኣል ። \n my-brother-OBJ 3SM know 3SM.OBJ AUX .
-nsubj:aff(-ኣውቅ-, ይ)
-obj:aff(-ኣውቅ-, -አው)
+nsubj:aff(-ኣውቅ-, ይ-)
+obj:aff(-ኣውቅ-, -አው-)
 ~~~
 
 - ti-S-23: ንሓወይ ይፈልጦ እዩ ። 'He knows my brother.'
