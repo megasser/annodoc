@@ -7,7 +7,7 @@ title: obj:aff
 
 The subrelation :aff is used for the plain object suffixes within finite verbs. Note that these do not necessarily agree with a syntactic obj argument.
 
-- am-S-23: ወንድሜን ያቀዋል ። 'He knows my brother.'
+- am-S-23: ወንድሜን ያውቀዋል ። 'He knows my brother.'
 
 ~~~ sdparse
 ወንድሜን ይ- -ኣውቅ- -አው- -ኣል ። \n my-brother-OBJ 3SM know 3SM.OBJ AUX .
