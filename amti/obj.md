@@ -3,6 +3,8 @@ layout: entry
 title: obj
 ---
 
+<h2><code>obj</code>: objects</h2>
+
 We assume a basic distinction in both languages between intransitive verbs, such as ሄደ/ከደ, and transitive verbs, such as ሰበረ.
 Intransitive verbs have no obj argument; transitive verbs have at most one obj.
 An `obj` argument is often co-referential with the object suffix on the verb and,
