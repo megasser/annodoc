@@ -26,3 +26,23 @@ obj:aff(-ኣውቅ-, -አው-)
 nsubj:aff(-ፈልጥ-, ይ-)
 obj1:aff(-ፈልጥ-, -ኦ)
 ~~~
+
+- am-S-79: ገንዘብ ይስጠኝ እንጂ የፈለገውን እገዛለታለሁ ።
+
+~~~ sdparse
+ገንዘብ ይ- -ስጥ- -አኝ እንጂ የፈለገውን እ- -ገዛ- -ለት- -ኣለሁ ። \n money 3SM give.JUS 1S.OBJ though what-he-wanted 1S buy.IPFV 3SM.OBL AUX .
+nsubj:aff(-ስጥ-, ይ-)
+nsubj:aff(-ገዛ-, እ-)
+obj:aff(-ስጥ-, -አኝ)
+obl:aff(-ገዛ-, -ለት)
+~~~
+
+- ti-S-79: ገንዘብ ደኣ ይሃበኒ እምበር ፡ ዝደለዮ ክገዝኣሉ እየ ። 'Let him give me money; I'll still buy him what he wants.
+
+~~~ sdparse
+ገንዘብ ደኣ ይ- -ሃብ- -አኒ እምበር ፡ ዝደለዮ ክ- እ- -ገዝኣ- -ሉ እየ ። \n money FOCUS 3SM give.JUS 1S.OBJ1 though , what-he-wanted that 1S buy.IPFV 3SM.OBJ2 AUX .
+nsubj:aff(-ሃብ-, ይ-)
+nsubj:aff(-ገዝኣ-, እ-)
+obj1:aff(-ሃብ-, -አኒ)
+obj2:aff(-ገዝኣ-, -ሉ)
+~~~
