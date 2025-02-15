@@ -5,7 +5,7 @@ title: obj:aff
 
 <h2><code>obj:aff</code>, <code>obl:aff</code>, <code>obj1:aff</code>, <code>obj2:aff</code>: object morphology</h2>
 
-The subrelation :aff is used for object suffixes within finite verbs.
+The subrelation `:aff` is used for object suffixes within finite verbs.
 
 Amharic has three possible object suffixes, a "plain" one, often cross-referencing the `obj` argument, and two prepositional ones, often cross-referencing `obl` arguments. We call these `obj:aff` and `obl:aff` respectively.
 
